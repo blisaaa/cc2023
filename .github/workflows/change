@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    h2 { background-color:#fff200; }
+    h1 { background-color:#ff0000; }
+    .person { color: red; }
+    #copyright {font-size: 5px; }
+    
+    </style>
+</head>
+<body>
+    <h1 class="person xyz">Tobi Oetiker</h1> <div class="person">Mark</div>
+<div id="copyright">Copyright 2015</div>
+
+    <h1>Übung 1 HTML Tags</h1>
+<p>h1 steht für heading und p steht für paragraph.</p>
+<h2>h2 ist ebenfalls ein heading</h2>
+<img src="https://placeimg.com/640/480/any" alt="Happy">
+<ul>Shopping list</ul>
+<li>Milk</li>
+<li>bread</li>
+<table>
+    <thead>
+        <tr>
+          <thead>
+    <tr>
+      <th>Name</th>
+      <th>Instrument</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td>Name</td>
+      <td>Instrument</td>
+      <td>Name</td>
+    </tr>
+  </tfoot>
+          
+</table>
+
+</body>
+</html>
